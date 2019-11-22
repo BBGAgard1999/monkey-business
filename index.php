@@ -36,7 +36,7 @@ $apen[] = "Spinaap";
         p {
             font-family: 'Bangers', cursive;
             color: #ff8400;
-            font-size: 16px;
+            font-size: 15px;
 
         }
     </style>
